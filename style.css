@@ -26,3 +26,7 @@ canvas {
     overflow:hidden;
 }
 p{margin:0}
+
+.txt{
+    color: red;
+}
